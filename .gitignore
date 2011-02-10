@@ -2,6 +2,7 @@
 db/*.sqlite3*
 log/*.log
 *.log
+.idea/**/*
 tmp/**/*
 tmp/*
 doc/api
